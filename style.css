@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Gideon+Roman&family=Josefin+Sans:ital,wght@0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Lilita+One&family=Lobster&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Permanent+Marker&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,700;1,300&family=REM&family=Roboto&family=Russo+One&display=swap');.jumbotron {
+  padding-top: 5rem;
+  background: url('img/ichigo.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.img-profile {
+  border: rgb(96, 96, 96) solid;
+}
+.bg-transparan {
+  background-color: rgba(0, 0, 0, 0.5);
+  margin: -2rem 0;
+  padding: 1.5rem 0;
+  padding-top: 4rem;
+}
+#projects {
+  background-color: black;
+}
+.p2 {
+  font-family: 'Segoe UI';
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+}
